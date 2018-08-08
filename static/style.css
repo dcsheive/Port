@@ -45,6 +45,12 @@
   background: linear-gradient(rgb(38, 166, 154),rgb(24, 110, 102)) 
 }
 
+.span1 {
+  color: rgb(38, 166, 154);
+}
+.span2 {
+  text-shadow: 3px 3px 3px black;
+}
 
 
 /* Built in styling */
